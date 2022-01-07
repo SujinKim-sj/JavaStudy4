@@ -5,7 +5,7 @@ public abstract class Animal {
 	int age;
 	
 	public void eat() {
-		System.out.println("츄베릅");
+		System.out.println("냠");
 	}	
 	
 	public abstract void sleep();	//추상 메서드
